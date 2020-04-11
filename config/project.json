@@ -26,6 +26,60 @@
         ]
       },
       {
+        "username": "cslarson",
+        "aliases": [
+          "github/cslarson"
+        ]
+      },
+      {
+        "username": "0xGabi",
+        "aliases": [
+          "github/0xgabi"
+        ]
+      },
+      {
+        "username": "burrrata",
+        "aliases": [
+          "github/burrrata"
+        ]
+      },
+      {
+        "username": "sembrestels",
+        "aliases": [
+          "github/sembrestels"
+        ]
+      },
+      {
+        "username": "fabriziovigevani",
+        "aliases": [
+          "github/fabriziovigevani"
+        ]
+      },
+      {
+        "username": "fioreb",
+        "aliases": [
+          "github/fioreb"
+        ]
+      },
+      {
+        "username": "onbjerg",
+        "aliases": [
+          "github/onbjerg"
+        ]
+      },
+      {
+        "username": "rperez",
+        "aliases": [
+          "github/rperez89"
+        ]
+      },
+      {
+        "username": "willjgriff",
+        "aliases": [
+          "github/willjgriff"
+        ]
+      },
+      {
         "username": "Aaron",
         "aliases": [
           "github/pythonpete32",
@@ -36,6 +90,58 @@
     "repoIds": [
       {
         "name": "payroll-app",
+        "owner": "1hive"
+      },
+      {
+        "name": "token-request-app",
+        "owner": "1hive"
+      },
+      {
+        "name": "conviction-voting-app",
+        "owner": "1hive"
+      },
+      {
+        "name": "dandelion-org",
+        "owner": "1hive"
+      },
+      {
+        "name": "token-manager-app",
+        "owner": "1hive"
+      },
+      {
+        "name": "sourcecred-airdrop",
+        "owner": "1hive"
+      },
+      {
+        "name": "credao",
+        "owner": "1hive"
+      },
+      {
+        "name": "radspec-registry",
+        "owner": "1hive"
+      },
+      {
+        "name": "token-oracle",
+        "owner": "1hive"
+      },
+      {
+        "name": "dandelion-voting-app",
+        "owner": "1hive"
+      },
+      {
+        "name": "time-lock-app",
+        "owner": "1hive"
+      },
+      {
+        "name": "delay-app",
+        "owner": "1hive"
+      },
+      {
+        "name": "redemptions-app",
+        "owner": "1hive"
+      },
+      {
+        "name": "airdrop-app",
         "owner": "1hive"
       },
       {
