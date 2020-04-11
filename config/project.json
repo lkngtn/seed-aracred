@@ -4,7 +4,7 @@
     "version": "0.4.0"
   },
   {
-    "id": "1hive",
+    "id": "@1Hive",
     "discord": {
       "guildId": "698287700834517064",
       "reactionWeights": {
@@ -90,55 +90,11 @@
     "repoIds": [
       {
         "name": "payroll-app",
-        "owner": "1hive"
-      },
-      {
-        "name": "token-request-app",
-        "owner": "1hive"
-      },
-      {
-        "name": "conviction-voting-app",
-        "owner": "1hive"
-      },
-      {
-        "name": "dandelion-org",
-        "owner": "1hive"
-      },
-      {
-        "name": "token-manager-app",
-        "owner": "1hive"
-      },
-      {
-        "name": "radspec-registry",
-        "owner": "1hive"
-      },
-      {
-        "name": "token-oracle",
-        "owner": "1hive"
-      },
-      {
-        "name": "dandelion-voting-app",
-        "owner": "1hive"
-      },
-      {
-        "name": "time-lock-app",
-        "owner": "1hive"
-      },
-      {
-        "name": "delay-app",
-        "owner": "1hive"
-      },
-      {
-        "name": "redemptions-app",
-        "owner": "1hive"
-      },
-      {
-        "name": "airdrop-app",
-        "owner": "1hive"
+        "owner": "1Hive"
       },
       {
         "name": "apiary",
-        "owner": "1hive"
+        "owner": "1Hive"
       }
     ]
   }
