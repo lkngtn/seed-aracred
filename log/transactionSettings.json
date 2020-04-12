@@ -1,17 +1,29 @@
 [
   {
-    "daoAddress": "0xA9D3447C6F727224BB30C5BE380750E03ada6d9B",
-    "tokenManagerAddress": "0xe00cb0155a8e6113620bbd45c25678cd679a4ebf",
-    "votingAddress": "0x3762ecf1595f4cf411ced7647971635d5ceb6aa1",
+    "daoAddress": "0x20b0d8A29a093cfa91d562DA10BC6338F7E857C3",
+    "tokenManagerAddress": "0x3dfbe34182888e9360eebd9ebc5337af8b072188",
+    "votingAddress": "0xda828ae80c996466d3c019410b8a5e69bab7d6e2",
     "environment": "rinkeby",
     "mints": [
       [
-        "0xee611225d5066b79f3cc25fe6c901fc96cd03376",
-        "16262113770980747000"
+        "0x6bce4f3ad3a9b9e98982e94da3352c94d06dfcb1",
+        "31518004910934852000"
       ],
       [
-        "0xee611225d5066b79f3cc25fe6c901fc96cd03376",
-        "5654158952641855000"
+        "0x625236038836cecc532664915bd0399647e7826b",
+        "1303239653540215500"
+      ],
+      [
+        "0xf632ce27ea72dea30d30c1a9700b6b3bceaa05cf",
+        "0788015755220422400"
+      ],
+      [
+        "0xa328500eab25698b8b146d195f35f5b26c93aaee",
+        "0000000000006054158"
+      ],
+      [
+        "0xb24b54fe5a3adcb4cb3b27d31b6c7f7e9f6a73a7",
+        "0000000000000000000"
       ]
     ],
     "burns": []
