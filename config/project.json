@@ -109,11 +109,7 @@
         "owner": "1Hive"
       },
       {
-        "name": "sourcecred-airdrop",
-        "owner": "1Hive"
-      },
-      {
-        "name": "credao",
+        "name": "airdrop-app",
         "owner": "1Hive"
       },
       {
@@ -142,6 +138,18 @@
       },
       {
         "name": "airdrop-app",
+        "owner": "1Hive"
+      },
+      {
+        "name": "gardens",
+        "owner": "1Hive"
+      },
+      {
+        "name": "transactions-app",
+        "owner": "1Hive"
+      },
+      {
+        "name": "flora",
         "owner": "1Hive"
       },
       {
